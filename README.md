@@ -1,4 +1,8 @@
 # Notebook for inferencing Real-ESRGAN and GFPGAN v1.4 to enhance images
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-34A853?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1jchSitQtj7c3g9wJDdqOVaXK-WVNPJjm?usp=sharing)
+[![Model Zoo](https://img.shields.io/badge/Model%20Zoo-Real%20ESRGAN-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/xinntao/Real-ESRGAN/blob/master/docs/model_zoo.md)
+[![Face Enhancement](https://img.shields.io/badge/Face%20Enhancement-GFPGAN-red?style=flat-square&logo=github&logoColor=white)](https://github.com/TencentARC/GFPGAN)
+
 The State-of-the-Art (SOTA) models being used for this project:
 
 **1. Real-ESRGAN (Real Enhanced Super-Resolution Generative Adversarial Network)**
