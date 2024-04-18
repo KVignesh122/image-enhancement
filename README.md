@@ -14,7 +14,22 @@ The State-of-the-Art (SOTA) models being used for this project:
   * Can be appended into the Real-ESRGAN for general image restoration and run together.
   * Preferable to run with GPU.
 
-<Demo of OIP>
+## Example
+
+<table align="center">
+ <tr>
+  <td><b>Original</b></td>
+  <td><b>Real-ESRGANx2</b></td>
+  <td><b>Real-ESRGANx4</b></td>
+  <td><b>Real-ESRGANx4 +<br>GFPGAN Face Enhancement</b></td>
+ </tr>
+ <tr>
+  <td><img src="https://github.com/KVignesh122/image-enhancement/assets/55841532/906326e1-1526-444b-ab8f-0a38cded1c09" width=230 height=160)></td>
+  <td><img src="https://github.com/KVignesh122/image-enhancement/assets/55841532/ff2a9d6a-b0bd-4ab3-a696-54ab5d672883" width=230 height=160)></td>
+  <td><img src="https://github.com/KVignesh122/image-enhancement/assets/55841532/265eca15-d209-41ae-a270-c225fa9ab0f6" width=230 height=160)></td>
+  <td><img src="https://github.com/KVignesh122/image-enhancement/assets/55841532/83d297fd-35f2-4bea-9756-bb77dd5caed8" width=230 height=160)></td>
+ </tr>
+</table>
 
 **One can choose between 2 options to enhance their image: a 2-layered NN version (RealESRGAN_x2plus.pth) or a 4-layered NN version (RealESRGAN_x4plus.pth).** This means that the 4-layered model passes the original image through 4 layers of neural networks compared to the 2-layered model which only passes the original image through 2 layers of neural networks. A general rule will be that the more NN layers our image passes through means the enhancement is much more perfect. But at the same time, this means that running the x4layer model takes more time than the x2layer model.
 
