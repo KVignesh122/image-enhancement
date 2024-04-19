@@ -28,10 +28,10 @@ The State-of-the-Art (SOTA) models being used for this project:
   <td><b>Real-ESRGANx4 +<br>GFPGAN Face Enhancement</b></td>
  </tr>
  <tr>
-  <td><img src="https://github.com/KVignesh122/image-enhancement/assets/55841532/906326e1-1526-444b-ab8f-0a38cded1c09" width=230 height=160)></td>
-  <td><img src="https://github.com/KVignesh122/image-enhancement/assets/55841532/ff2a9d6a-b0bd-4ab3-a696-54ab5d672883" width=230 height=160)></td>
-  <td><img src="https://github.com/KVignesh122/image-enhancement/assets/55841532/265eca15-d209-41ae-a270-c225fa9ab0f6" width=230 height=160)></td>
-  <td><img src="https://github.com/KVignesh122/image-enhancement/assets/55841532/83d297fd-35f2-4bea-9756-bb77dd5caed8" width=230 height=160)></td>
+  <td><img src="https://github.com/KVignesh122/image-enhancement/assets/55841532/906326e1-1526-444b-ab8f-0a38cded1c09" width=230 height=130)></td>
+  <td><img src="https://github.com/KVignesh122/image-enhancement/assets/55841532/ff2a9d6a-b0bd-4ab3-a696-54ab5d672883" width=230 height=130)></td>
+  <td><img src="https://github.com/KVignesh122/image-enhancement/assets/55841532/265eca15-d209-41ae-a270-c225fa9ab0f6" width=230 height=130)></td>
+  <td><img src="https://github.com/KVignesh122/image-enhancement/assets/55841532/83d297fd-35f2-4bea-9756-bb77dd5caed8" width=230 height=130)></td>
  </tr>
 </table>
 
